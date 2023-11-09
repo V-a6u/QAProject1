@@ -1,1 +1,4 @@
 Created a test.txt file.
+
+npm start
+npx json-server --watch data\db.json --port 8080
